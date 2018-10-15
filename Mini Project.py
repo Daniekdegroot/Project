@@ -17,3 +17,5 @@ with open ('fietsFile.csv', 'w+',newline='') as myCSVFile:
             print(naam)
         if len(ovNum) > 16:
             print('Onjuist OV-nummer ingevoerd, probeer het opnieuw !')
+            
+            kan je dit zien?
